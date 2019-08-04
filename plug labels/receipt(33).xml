@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>receipt(33).jpeg</filename>
+	<path>C:/Users/asilecan/Desktop/Yeni klasör/receipt(33).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Is Bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>767</ymin>
+			<xmax>710</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>

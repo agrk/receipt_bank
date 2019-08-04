@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plugs_images</folder>
+	<filename>receipt(6).jpeg</filename>
+	<path>C:/Users/asilecan/Desktop/receipt_bank-master/plugs_images/receipt(6).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yapi Kredi Bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>664</ymin>
+			<xmax>767</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+</annotation>

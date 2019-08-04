@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plugs_images</folder>
+	<filename>receipt(12).jpeg</filename>
+	<path>C:/Users/asilecan/Desktop/receipt_bank-master/plugs_images/receipt(12).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Akbank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>756</ymin>
+			<xmax>670</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>

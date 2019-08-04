@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>receipt(35).jpeg</filename>
+	<path>C:/Users/asilecan/Desktop/Yeni klasör/receipt(35).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garanti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>578</ymin>
+			<xmax>764</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>
