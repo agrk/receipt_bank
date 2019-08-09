@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fişler</folder>
+	<filename>receipt(57).JPG</filename>
+	<path>C:/Users/asilecan/Desktop/fişler/receipt(57).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>3920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ziraat Bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>1863</ymin>
+			<xmax>1890</xmax>
+			<ymax>2148</ymax>
+		</bndbox>
+	</object>
+</annotation>

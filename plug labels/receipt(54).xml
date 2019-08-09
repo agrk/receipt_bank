@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fişler</folder>
+	<filename>receipt(54).JPG</filename>
+	<path>C:/Users/asilecan/Desktop/fişler/receipt(54).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>3920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garanti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>1798</ymin>
+			<xmax>1911</xmax>
+			<ymax>2091</ymax>
+		</bndbox>
+	</object>
+</annotation>

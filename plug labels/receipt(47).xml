@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fişler</folder>
+	<filename>receipt(47).JPG</filename>
+	<path>C:/Users/asilecan/Desktop/fişler/receipt(47).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>3920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Akbank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>1698</ymin>
+			<xmax>1918</xmax>
+			<ymax>1963</ymax>
+		</bndbox>
+	</object>
+</annotation>

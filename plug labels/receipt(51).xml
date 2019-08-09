@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fişler</folder>
+	<filename>receipt(51).JPG</filename>
+	<path>C:/Users/asilecan/Desktop/fişler/receipt(51).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2208</width>
+		<height>3920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Halk Bank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>1777</ymin>
+			<xmax>1925</xmax>
+			<ymax>2077</ymax>
+		</bndbox>
+	</object>
+</annotation>
